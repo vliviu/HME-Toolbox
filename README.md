@@ -28,18 +28,18 @@ project/
 │
 ├── src/
 
-│ ├── main.cpp      # Main application file
+│       ├── main.cpp      # Main application file
 
-│ ├── NNPattern.cpp # Implementation of the NNPattern class
+│       ├── NNPattern.cpp # Implementation of the NNPattern class
 
-│ └── TNetSOM.cpp   # Implementation of the TNetSOM class
+│       └── TNetSOM.cpp   # Implementation of the TNetSOM class
 
 │
 └── include/
 
-├── NNPattern.h # Header for NNPattern class
+|       ├── NNPattern.h # Header for NNPattern class
 
-└── TNetSOM.h # Header for TNetSOM class
+|       └── TNetSOM.h # Header for TNetSOM class
 
 ## Compilation Instructions
 
