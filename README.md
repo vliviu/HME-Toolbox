@@ -24,22 +24,14 @@ Standard C++ Libraries
 The code is structured as:
 
 project/
-
-│
-├── src/
-
-│       ├── main.cpp      # Main application file
-
-│       ├── NNPattern.cpp # Implementation of the NNPattern class
-
-│       └── TNetSOM.cpp   # Implementation of the TNetSOM class
-
-│
-└── include/
-
-|       ├── NNPattern.h # Header for NNPattern class
-
-|       └── TNetSOM.h # Header for TNetSOM class
+| Blocks	       | Components	    | Description 				  		   	   | 	   
+| ------------- | -------------   | -----------    				  			   |
+| `src`         |  main.cpp       | `# Main application file`   			   |
+|               |  NNPattern.cpp  | `Implementation of the NNPattern class`|
+|               |  TNetSOM.cpp	 | `Implementation of the TNetSOM class`	|
+| `include`     | NNPattern.h     | `Header for NNPattern class	`   		|
+|  			    | TNetSOM.h 	    | `Header for TNetSOM class	`   		   |
+| `docs`        | README          | Papers to use in your citations 4 code`|
 
 ## Compilation Instructions
 
